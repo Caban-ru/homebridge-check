@@ -1,10 +1,10 @@
 {
-  "name": "homebridge-http-regex",
+  "name": "homebridge-checker",
   "version": "0.1.0",
-  "description": "Regex http plugin for Homebridge: https://github.com/nfarina/homebridge",
+  "description": "Checker plugin for Homebridge: https://github.com/nfarina/homebridge",
   "license": "MIT",
   "author": {
-    "name": "Wouter Janson"
+    "name": "IM"
   },
   "keywords": [
     "homebridge-plugin",
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/wouterjanson/homebridge-http-regex.git"
+    "url": ""
   },
   "bugs": {
-    "url": "http://github.com/wouterjanson/homebridge-http-regex/issues"
+    "url": ""
   },
   "engines": {
     "node": "^6.11.4 || ^8.7.0",
