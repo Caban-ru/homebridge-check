@@ -1,4 +1,4 @@
-# homebridge-http-regex
+# homebridge-checker
 [![GitHub issues](https://img.shields.io/github/issues/WouterJanson/homebridge-http-regex.svg)](https://github.com/WouterJanson/homebridge-http-regex/issues)
 [![license](https://img.shields.io/github/license/WouterJanson/homebridge-http-regex.svg)](https://github.com/WouterJanson/homebridge-http-regex/blob/master/LICENCE)
 [![npm](https://img.shields.io/npm/v/homebridge-http-regex.svg)](https://www.npmjs.com/package/homebridge-http-regex)
